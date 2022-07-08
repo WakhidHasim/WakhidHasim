@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WakhidHasim
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Laravel and Javascript
+- 🌱 I’m currently learning PHP and Javascript
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
